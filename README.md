@@ -1,4 +1,4 @@
-1.	Crear un archivo .csv que posea el siguiente formato:\n
+1.	Crear un archivo .csv que posea el siguiente formato:
 
 |JOB|Deadline|PT|
 |----------:|-----------:|----------:|
